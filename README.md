@@ -1,2 +1,2 @@
 # terraform-google
-Bring up plain instances in google cloud
+Base Terraform scripts to bring up plain instances Google and AWS Public Cloud
